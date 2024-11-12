@@ -13,6 +13,6 @@ You can view our ongoing notes and documentation [here!](https://docs.google.com
 
 ## Contribution guidelines
 In our community please 
-**Be welcoming and patient**
-**Be considerate and respectful** 
-**Be kind and mindful of your words**
+**be welcoming and patient,**
+**be considerate and respectful,** 
+**and remember to be kind and mindful of your words**

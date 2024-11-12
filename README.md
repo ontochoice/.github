@@ -1,3 +1,3 @@
 # Welcome to the OntoChoice GitHub Pages
 
-This repository documents and manages the work of the OntoChoice Project, an open collaboration to describe (and potentially implement) evalutaion techniques for choosing terms and ontologies.
+This repository contains in the profile directory the profile for the organization shown to the public.

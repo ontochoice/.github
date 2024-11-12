@@ -13,7 +13,6 @@ You can view our previously published papers and list of contributers [here](htt
 You can view our ongoing notes and documentation [here!](https://docs.google.com/document/d/1jp0nNiipTo60QuH9k2B9hzXD1nkPsgsJbyEnqDxjXWY/edit?usp=sharing)
 
 Here are our current list of criteria for evaluation:
-Categories of Evaluation Criteria
 Each of these categories has multiple specific criteria (many objective, some subjective or harder to measure) that could be used to evaluate it: **Popularity** (including reuse, visits, selections from a search list, other voting techniques); 
 **Reuse of ontologies / terms** (in either case, reuse considers the ontology as a whole, ontology fragments, design patterns, profiles, and individual terms); 
 **Governance** (methods and controls for modification and change tracking; trust indicators; change frequency and recency);

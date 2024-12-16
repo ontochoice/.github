@@ -17,10 +17,9 @@ View the [latest Evaluations for Choosing Terms and Ontologies document](https:/
 
 See some of our previously published documents [on our web site](https://ontochoice.github.io/choosing-terms-and-ontologies/).
 
-Find our ongoing notes and documentation [in our Google Docs folder]([https://docs.google.com/document/d/1jp0nNiipTo60QuH9k2B9hzXD1nkPsgsJbyEnqDxjXWY](https://drive.google.com/drive/folders/1Pj0R_4KA_fF2Cg_I0LazMScpkcbXK7AQ)) !
+Find our ongoing notes and documentation [in our Google Docs folder](https://drive.google.com/drive/folders/1Pj0R_4KA_fF2Cg_I0LazMScpkcbXK7AQ).
 
-Most importantly, you can edit the [latest version of the document]
-(https://docs.google.com/document/d/1vb-icDRYCffAn1z2jK5DmNXiYMmO9bKcri4JC9FpXuc). 
+Most importantly, you can edit the [latest version of the document](https://docs.google.com/document/d/1vb-icDRYCffAn1z2jK5DmNXiYMmO9bKcri4JC9FpXuc). 
 So that everyone gets appropriate credit, first we need to add your google account to the list of permitted editors;
 contact @graybeal to be added.
 

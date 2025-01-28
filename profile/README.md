@@ -1,7 +1,7 @@
 # Welcome to the OntoChoice GitHub organization
 Welcome to the OntoChoice, the collaborative project for ontology selection and recommendation resources development! 🚀
 
-This project is **collaboratively developing a reference** for selecting terms and ontologies, encouraging systematic development and promoting reusability within the community. 🌐
+This project is **collaboratively developing guidance** for selecting terms and ontologies, encouraging their systematic development and promoting their reusability within the community. 🌐
 
 ## What are we doing?
 We are collecting a reasonably comprehensive list of metrics and indicators of the value of a term or ontology, including the following:
